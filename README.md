@@ -9,7 +9,7 @@ before the next block. Otherwise it tells you to keep going.
 It is a terminal app built on the SDK's Node.js binding. Everything it shows comes from the
 SDK's live metrics while the check-in runs.
 
-Demo video (runs on a recorded clip of me, see below): https://youtu.be/VIDEO_ID
+Demo video (runs on a recorded clip of me, see below): https://youtu.be/Xldyvg1omy0
 
 ![Pulse Break during a check-in](docs/screenshot.png)
 
