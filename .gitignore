@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.cast
+out/
+footage/
+*.mp4
+*.log

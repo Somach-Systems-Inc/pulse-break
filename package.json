@@ -1,0 +1,17 @@
+{
+  "name": "pulse-break",
+  "version": "0.1.0",
+  "description": "A 60-second camera check-in between focus blocks, built on the Presage SmartSpectra SDK (pulse and breathing rate).",
+  "type": "module",
+  "bin": { "pulse-break": "src/cli.mjs" },
+  "scripts": {
+    "start": "node src/cli.mjs",
+    "test": "node --test test/"
+  },
+  "engines": { "node": ">=20.12" },
+  "license": "MIT",
+  "author": "Carl Kho",
+  "dependencies": {
+    "@smartspectra/node-sdk": "^3.5.0"
+  }
+}
